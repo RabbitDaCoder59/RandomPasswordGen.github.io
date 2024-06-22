@@ -1,0 +1,56 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label,
+input,
+select,
+button {
+  display: block;
+  margin: 10px auto;
+}
+
+input,
+select {
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h2 {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+#passwordOutput {
+  font-size: 1.2em;
+  word-break: break-all;
+}
