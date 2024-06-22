@@ -14,9 +14,7 @@ This project is a simple web-based random password generator built using HTML, C
 
 ## Demo Preview
 
-![Demo Preview](path/to/your/demo-preview.png)
-
-(Add a screenshot or a link to a live demo of your project here)
+Link to demo Preview: https://rabbitdacoder59.github.io/RandomPasswordGen.github.io/
 
 ## Features
 
@@ -85,7 +83,8 @@ This project uses Jest for testing. Follow these steps to run the tests:
 
 ## Contributing
 
-Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
+Contributions are welcome! by rabbitdacoder you're fully welcome to clone and pull and testing this project 
+
 
 1. Fork the repository.
 2. Create a new branch.
